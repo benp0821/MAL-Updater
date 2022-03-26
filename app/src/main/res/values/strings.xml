@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MalUpdater</string>
+    <string name="synonyms">Synonyms:\u0020</string>
+    <string name="image_for_the_anime">Image for the Anime</string>
+    <string name="anime_list_label">\'s Anime List</string>
+    <string name="manga_list_label">\'s Manga List</string>
+    <string name="sort_by">Sort By</string>
+    <string name="en">"En:\u0020"</string>
+    <string name="jp">"Jp:\u0020"</string>
+    <string name="divider">\u0020|\u0020</string>
+    <string name="slash">\u0020/\u0020</string>
+    <string name="view_manga_list">View Manga List</string>
+    <string name="view_anime_list">View Anime List</string>
+    <string name="nav_menu_open">"Open Navigation Menu"</string>
+    <string name="nav_menu_close">"Close Navigation Menu"</string>
+</resources>
